@@ -51,14 +51,3 @@ The app showcases modern Android development practices, clean UI, and basic clas
 
 ---
 
-## 📌 Notes
-
-- This project uses **local/static data** for demonstration purposes.
-- No backend or remote database is integrated.
-- Ideal for learning modern Android UI patterns and architecture.
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
